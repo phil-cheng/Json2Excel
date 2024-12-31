@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+
+packages
+.git
+/json2Excel/obj
+/json2Excel/bin
+/json2Excel/.vs
+
