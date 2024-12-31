@@ -369,4 +369,8 @@ packages
 /json2Excel/obj
 /json2Excel/bin
 /json2Excel/.vs
+*.suo
+*.user
+TestResults/
+*.coverage
 
